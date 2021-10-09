@@ -1,1 +1,75 @@
-CSS
+/* * {
+    border: 1px solid red;
+    box-sizing: border-box;
+} */
+
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    text-align: center; 
+    margin-top: none;
+    margin-bottom: none;
+
+}
+
+h2 {
+    text-align: left;
+}
+
+.container {
+    display: block;
+}
+
+.color-container {
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between; */
+    /* align-content: flex-start; */
+}
+
+.color-panel {
+    margin-left: 10px;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.lightsteelblue {
+    background-color: lightsteelblue;
+}
+.linen {
+    background-color: linen;
+}
+.Olive-Drab {
+    background-color: olivedrab;
+}
+.Golden-Rod {
+    background-color: goldenrod;
+}
+.sandybrown {
+    background-color: sandybrown;
+}
+.indian-red {
+    background-color: indianred;
+}
+
+.color-name {
+    color: black;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.color-code {
+    color: black;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
