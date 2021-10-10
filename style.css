@@ -82,7 +82,7 @@ h2 {
 /*  FONT CSS */
 
 .font-panel {
-    height: 250px;
+    height: 300px;
     width: 600px;
     display: inline-block;
     margin-bottom: 20px;
@@ -132,3 +132,19 @@ font-family: 'EB Garamond', serif;
 .Roboto {
     font-family: 'Roboto', sans-serif;
 }
+/* 
+.hide,
+.bold-hide {
+    display: none;
+    text-align: center;
+    font-size: 14px;
+}
+
+.font-sample:hover + .hide {
+    display: block;
+    
+}
+
+.font-sample.bold:hover +.bold-hide {
+    display:block;
+} */
