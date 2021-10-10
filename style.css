@@ -12,6 +12,7 @@ h1 {
     text-align: center; 
     margin-top: none;
     margin-bottom: none;
+    font-family: Verdana;
 
 }
 
@@ -41,6 +42,24 @@ h2 {
     margin-bottom: 20px;
 }
 
+.color-name {
+    color: black;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.color-code {
+    color: black;
+    font-family: Verdana;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+}
+
 .lightsteelblue {
     background-color: lightsteelblue;
 }
@@ -60,18 +79,56 @@ h2 {
     background-color: indianred;
 }
 
-.color-name {
+/*  FONT CSS */
+
+.font-panel {
+    height: 250px;
+    width: 600px;
+    display: inline-block;
+    margin-bottom: 20px;
+    border: 1px solid grey;
+}
+
+
+.font-name {
     color: black;
     font-family: Verdana;
     font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 26px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.font-sample {
+    color: black;
+    font-family: Verdana;
+    font-size: 22px;
     text-align: center;
     margin-top: 30px;
 }
 
-.color-code {
-    color: black;
-    font-family: Verdana;
+.Andada-Pro {
+    font-family: "Andada Pro";
+}
+
+.bold {
     font-weight: bold;
-    text-align: center;
-    margin-top: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.Playfair-Dis {
+    font-family: 'Playfair Display', serif;
+}
+
+.Garamond {
+font-family: 'EB Garamond', serif;
+}
+
+.Roboto {
+    font-family: 'Roboto', sans-serif;
 }
