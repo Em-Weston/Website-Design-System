@@ -158,6 +158,37 @@ font-family: 'EB Garamond', serif;
     font-weight: bold;
     text-align: right;
 }
+
+.cards-panel {
+    border: 10px solid goldenrod;
+    /* border-radius: 5%; */
+    font-family: 'EB Garamond';
+    font-size: 18px;
+    width: 350px;
+    height: 400px;
+    box-shadow: 0 4px 8px 0; 
+    /* transition: 0.3s;
+}
+.border{
+    border-bottom: 10px solid goldenrod;
+    /* border-radius: 5%; */
+    /* background-color: sandybrown; */
+}
+
+.card-name {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+.cards-panel2 {
+    border-radius: 0;
+    border: 10px solid goldenrod;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 4px 8px 0;
+}
 /* 
 .hide,
 .bold-hide {
