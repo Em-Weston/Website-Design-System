@@ -39,10 +39,13 @@ Project is created with:
 ## Project Status
 At the moment the project is complete. I have considered other things I can do to update it.
 \
+
 In my fonts section, I have added samples of the fonts, Regular 400, bold 700 and italic 400. I wanted a way to pass this information to the user without complicating the page. I used acronym html tag. I'm not sure if it is approipriate to use it this way. I am going to look into semantics and find out. 
 \
+
 I may consider moving my style guide to right, taking up 3/4 of the screen and adding a menu down the side. 
 \
+
 I also need to consider making my website responsive. 
 I can add additional componants. eg, Buttons, layout. 
 
